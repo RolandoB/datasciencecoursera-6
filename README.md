@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for Coursera course from John's Hopkins
+Repo for Coursera course from Johns Hopkins
